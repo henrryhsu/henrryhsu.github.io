@@ -24,4 +24,7 @@ a:link{
 a:visited{
 color:blue;
 }
-      
+
+#photo .col-md-7, #photo .col-md-5 {
+	margin-bottom: 3rem;
+}
