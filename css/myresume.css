@@ -6,11 +6,11 @@ h1{
 	font-family: 'Noto Sans TC', sans-serif ;
 	font-size: 5rem ;	
 }
- h2, h3, h4, h5, h6, {
+ h2, h3, h4, h5, h6, mb-5, mb-0 {
 	font-family: 'Noto Sans TC', sans-serif ;
 	font-size: 2rem ;
  }
-, div, p, section {
+ div, p, section, lead mb-5 {
 	font-family: 'Noto Sans TC', sans-serif ;
 	font-size: 1rem ;
  }
