@@ -14,6 +14,10 @@ h1{
 	font-family: 'Noto Sans TC', sans-serif ;
 	font-size: 1rem ;
  }
+ subheading mb-5 {
+	 font-family: 'Noto Sans TC', sans-serif ;
+	font-size: 1rem ;
+ }	
 .bg-primary{
 	background-color: #939e00 ! important;
 	background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
