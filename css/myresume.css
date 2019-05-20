@@ -14,7 +14,7 @@ h1{
 	font-family: 'Noto Sans TC', sans-serif ;
 	font-size: 1rem ;
  }
- subheading mb-5 {
+ subheading , subheading.mb-5 {
 	 font-family: 'Noto Sans TC', sans-serif ;
 	font-size: 1rem ;
  }	
